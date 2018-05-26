@@ -1,12 +1,13 @@
 # bashnotebook
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aborruso/bashnotebook/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aborruso/notebook/master)
 
 Un hub di Jupyter Notebook con queste caratteristiche: 
 
 - kernel
     - python 3
     - bash
+    - R
 - moduli python
     - matplotlib
     - pandas
